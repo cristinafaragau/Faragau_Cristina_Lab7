@@ -1,5 +1,5 @@
 ﻿using SQLite;
-namespace Nume_Pren_Lab7.Models
+namespace Faragau_Cristina_Lab7.Models
 {
     public class ShopList
     {
